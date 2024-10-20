@@ -18,6 +18,17 @@ var app = builder.Build();
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+// Serve static files and use default files
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 app.UseFastEndpoints();
+
+// In production, serve the React app's static files
+if (!app.Environment.IsDevelopment())
+{
+    app.MapFallbackToFile("index.html");
+}
 
 app.Run();
