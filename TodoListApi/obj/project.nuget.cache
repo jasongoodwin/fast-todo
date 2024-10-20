@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouXSqATh/Es=",
+  "success": true,
+  "projectFilePath": "/Users/jay/Development/src/productive-net2/TodoListApi/TodoListApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/jay/.nuget/packages/auth0.aspnetcore.authentication/1.4.1/auth0.aspnetcore.authentication.1.4.1.nupkg.sha512",
+    "/Users/jay/.nuget/packages/fastendpoints/5.30.0/fastendpoints.5.30.0.nupkg.sha512",
+    "/Users/jay/.nuget/packages/fastendpoints.attributes/5.30.0/fastendpoints.attributes.5.30.0.nupkg.sha512",
+    "/Users/jay/.nuget/packages/fastendpoints.messaging.core/5.30.0/fastendpoints.messaging.core.5.30.0.nupkg.sha512",
+    "/Users/jay/.nuget/packages/fluentvalidation/11.10.0/fluentvalidation.11.10.0.nupkg.sha512",
+    "/Users/jay/.nuget/packages/litedb/5.0.21/litedb.5.0.21.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/8.0.1/microsoft.aspnetcore.authentication.openidconnect.8.0.1.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.identitymodel.abstractions/7.1.2/microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.1.2/microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.identitymodel.logging/7.1.2/microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "/Users/jay/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/jay/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
+    "/Users/jay/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
